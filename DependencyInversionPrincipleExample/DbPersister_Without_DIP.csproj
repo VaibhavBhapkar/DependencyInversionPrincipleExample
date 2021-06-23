@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>DbPersister_Without_DIP</AssemblyName>
+    <RootNamespace>DbPersister_Without_DIP</RootNamespace>
+  </PropertyGroup>
+
+</Project>
